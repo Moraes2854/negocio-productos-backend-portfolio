@@ -13,3 +13,5 @@ docker-compose up -d
 6. Levantar servidor: ```npm run start:dev```
 7. Utilizar en ```http://localhost:${PORT}```
 8. Utilizar seed ejecutando una peticion post al endpoint ```http://localhost:${PORT}/api/seed```
+
+Informacion extra en: ```https://docs.google.com/document/d/1tHf2uQwZ0Vwg5bvEt64NWfp1NZ35W1D4RIZ0N7HniU4/edit```
